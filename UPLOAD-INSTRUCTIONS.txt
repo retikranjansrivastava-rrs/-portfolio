@@ -1,0 +1,104 @@
+========================================
+   GITHUB UPLOAD INSTRUCTIONS
+   Super Easy Step-by-Step Guide
+========================================
+
+📁 FILES TO UPLOAD (8 files):
+✅ index.html
+✅ style.css
+✅ script.js
+✅ metro_train.png
+✅ embedded_board.png
+✅ garage_door.png
+✅ community_service.png
+✅ README.md
+
+========================================
+STEP 1: CREATE GITHUB ACCOUNT
+========================================
+1. Go to: https://github.com
+2. Click "Sign up" (top right)
+3. Enter email and create password
+4. Choose username (example: retikranjan)
+5. Verify email
+
+========================================
+STEP 2: CREATE NEW REPOSITORY
+========================================
+1. Login to GitHub
+2. Click "+" symbol (top right corner)
+3. Click "New repository"
+4. Repository name: Type "portfolio"
+5. Make it "Public" ✓
+6. DO NOT check any boxes
+7. Click "Create repository" button
+
+========================================
+STEP 3: UPLOAD FILES
+========================================
+1. You'll see your empty repository
+2. Click "uploading an existing file" link
+   OR click "Add file" → "Upload files"
+
+3. DRAG ALL 8 FILES into the upload box:
+   - Select all files in this folder
+   - Hold Ctrl (Windows) or Cmd (Mac)
+   - Click each file
+   - Drag them all together
+
+4. Wait for green checkmarks ✅
+5. Scroll down
+6. Type commit message: "Add portfolio files"
+7. Click "Commit changes" button
+
+========================================
+STEP 4: ENABLE GITHUB PAGES
+========================================
+1. Click "Settings" tab (top of page)
+2. Click "Pages" (left sidebar)
+3. Under "Source":
+   - Change "None" to "main"
+   - Keep "/ (root)" selected
+4. Click "Save"
+5. Wait 2-3 minutes
+6. Refresh the page
+7. You'll see green box with your URL!
+
+========================================
+YOUR WEBSITE WILL BE LIVE AT:
+========================================
+https://YOUR-USERNAME.github.io/portfolio
+
+Replace YOUR-USERNAME with your GitHub username
+
+========================================
+TROUBLESHOOTING
+========================================
+
+Problem: Can't find "uploading an existing file"
+Solution: Click "Add file" button → "Upload files"
+
+Problem: Images not showing
+Solution: Make sure all .png files are uploaded
+         They must be in same folder as index.html
+
+Problem: Website shows 404 error
+Solution: Wait 5 minutes and try again
+         Make sure index.html is uploaded
+         Clear browser cache (Ctrl + F5)
+
+Problem: Don't see "Pages" in Settings
+Solution: Make sure repository is "Public"
+         Go to Settings → Danger Zone → Change visibility
+
+========================================
+NEED HELP?
+========================================
+Send me a message telling me:
+1. Which step you're stuck on
+2. What you see on screen
+3. Any error messages
+
+========================================
+YOU GOT THIS! 🚀
+========================================
